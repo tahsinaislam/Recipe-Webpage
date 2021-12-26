@@ -10,3 +10,13 @@ img {
     color: black; 
     
 }
+
+.box {
+    background: lightblue;
+    width: 300 px;
+    margin: 100 px;
+    border-left-color: red; 
+    border-left-width: 10px;
+    padding: 100 px;
+
+}
